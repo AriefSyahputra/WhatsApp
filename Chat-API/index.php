@@ -1,9 +1,9 @@
 <?php
 error_reporting (E_ERROR| E_PARSE);
 
-require_once 'src/whatsprot.class.php';
+require 'src/whatsprot.class.php';
 $username	= "6282165311530"; //Nomor pengirim
-$identity	= "";
+$identity	= "y%29%a6%16g%8e%7d%3c%e9%7e%9f%f2%e6%8di%3b%cc%af%2e%24";
 $nickname	= "Coba";
 $password	= "dade2da6fc71394c1ca0fb8ff0a9c13d"; //password dari WART
 $debug		= false;
